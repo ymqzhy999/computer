@@ -19,6 +19,7 @@ export default defineConfig({
     rollupOptions: {
       output: {
         manualChunks(id) {
+          if (id.indexOf('catalog.json') !== -1) return 'catalog'
           if (id.indexOf('node_modules/three') !== -1) return 'three'
           if (id.indexOf('node_modules/echarts') !== -1 || id.indexOf('node_modules/zrender') !== -1) return 'echarts'
           if (id.indexOf('jspdf') !== -1 || id.indexOf('html2canvas') !== -1 || id.indexOf('dompurify') !== -1) return 'pdf'
