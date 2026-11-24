@@ -1,0 +1,13 @@
+﻿import { chromium } from 'playwright-core'
+const browser = await chromium.launch({ executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe' })
+const page = await browser.newPage({ viewport: { width: 1440, height: 1700 }, deviceScaleFactor: 1 })
+await page.goto('http://127.0.0.1:5178', { waitUntil: 'networkidle' })
+await page.waitForTimeout(1200)
+await page.getByRole('button', { name: '配置方案' }).click()
+await page.waitForTimeout(1800)
+await page.screenshot({ path: 'docs/builds-tall.png' })
+await page.getByRole('button', { name: '装配实验室' }).click()
+await page.waitForTimeout(1500)
+await page.screenshot({ path: 'docs/lab-tall.png' })
+await browser.close()
+console.log('captured')

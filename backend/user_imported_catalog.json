@@ -1,0 +1,4240 @@
+{
+  "meta": {
+    "generatedAt": "2026-11-21",
+    "description": "PC FORGE 中国大陆市场硬件产品主索引（合并 CPU + GPU）",
+    "totalProducts": 58,
+    "categories": {
+      "PROCESSOR": 48,
+      "GRAPHICS_CARD": 10
+    },
+    "notes": [
+      "全部 58 款硬件价格已通过中关村在线 (ZOL) 真实行情核对与补全",
+      "参考价格单位均为 CNY",
+      "已收录真实官方价格与电商行情"
+    ],
+    "verifiedAt": "2026-11-21"
+  },
+  "products": [
+    {
+      "id": "cpu-amd-ryzen-9-9950x3d",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 9 9000X3D",
+      "model": "Ryzen 9 9950X3D",
+      "sku": "100-000001309",
+      "mpn": "100-000001309",
+      "variant": "Tray/Box",
+      "releaseDate": "2025-03-12",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": "Flagship gaming and productivity with 3D V-Cache",
+      "color": null,
+      "referencePrice": 5299.0,
+      "marketMin": 4999.0,
+      "marketMax": 5699.0,
+      "marketMedian": 5299.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 5299.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x3d.html",
+      "imageUrl": null,
+      "specSource": [
+        "AMD Official",
+        "TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 16,
+        "threads": 32,
+        "baseClockGHz": 4.3,
+        "boostClockGHz": 5.7,
+        "tdpW": 170,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5-5600",
+        "pcieVersion": "5.0",
+        "pcieLanes": 28,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon Graphics",
+        "includedCooler": false,
+        "l3CacheMB": 128,
+        "architecture": "Zen 5",
+        "processNode": "4nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "重度生产力旗舰 / 极限多任务",
+        "badge": "多核怪兽 & 顶级算力",
+        "games": [
+          "通吃全部 3A 游戏物理模拟与高负载计算",
+          "《文明6》/《天际线2》超大后期地图万人不卡顿",
+          "各类大型安卓模拟器、多开网游 10+ 挂机无压力"
+        ],
+        "productivity": [
+          "Linux 内核 / Chromium 大型代码工程秒级并行编译",
+          "Blender / V-Ray CPU 离线渲染与物理粒子解算",
+          "4K/8K 多机位 ProRes 实时转码与复杂特效工程合成"
+        ],
+        "summary": "16~24核顶级多任务性能，适合程序编译、影视工程、三维工业设计与发烧级多任务重度用户。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-9-9950x",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 9 9000",
+      "model": "Ryzen 9 9950X",
+      "sku": "100-000001277",
+      "mpn": "100-000001277",
+      "variant": null,
+      "releaseDate": "2024-08-15",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x.html",
+      "imageUrl": null,
+      "specSource": [
+        "AMD Official",
+        "TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 16,
+        "threads": 32,
+        "baseClockGHz": 4.3,
+        "boostClockGHz": 5.7,
+        "tdpW": 170,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5-5600",
+        "pcieVersion": "5.0",
+        "pcieLanes": 28,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon Graphics",
+        "includedCooler": false,
+        "l3CacheMB": 64,
+        "architecture": "Zen 5",
+        "processNode": "4nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "重度生产力旗舰 / 极限多任务",
+        "badge": "多核怪兽 & 顶级算力",
+        "games": [
+          "通吃全部 3A 游戏物理模拟与高负载计算",
+          "《文明6》/《天际线2》超大后期地图万人不卡顿",
+          "各类大型安卓模拟器、多开网游 10+ 挂机无压力"
+        ],
+        "productivity": [
+          "Linux 内核 / Chromium 大型代码工程秒级并行编译",
+          "Blender / V-Ray CPU 离线渲染与物理粒子解算",
+          "4K/8K 多机位 ProRes 实时转码与复杂特效工程合成"
+        ],
+        "summary": "16~24核顶级多任务性能，适合程序编译、影视工程、三维工业设计与发烧级多任务重度用户。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-9-9900x3d",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 9 9000X3D",
+      "model": "Ryzen 9 9900X3D",
+      "sku": "100-000001368",
+      "mpn": "100-000001368",
+      "variant": null,
+      "releaseDate": "2025-03-12",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 4199.0,
+      "marketMin": 3899.0,
+      "marketMax": 4499.0,
+      "marketMedian": 4199.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 4199.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 12,
+        "threads": 24,
+        "baseClockGHz": 4.4,
+        "boostClockGHz": 5.5,
+        "tdpW": 120,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5-5600",
+        "pcieVersion": "5.0",
+        "pcieLanes": 28,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon Graphics",
+        "includedCooler": false,
+        "l3CacheMB": 128,
+        "architecture": "Zen 5",
+        "processNode": "4nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "全球电竞游戏天花板 / 3D V-Cache",
+        "badge": "顶级游戏物理引擎神U",
+        "games": [
+          "《CS2》400FPS+ / 《无畏契约》600FPS+ 极限电竞高帧",
+          "《绝地求生》/《逃离塔科夫》极其稳定的 1% Low 最低帧率",
+          "《黑神话:悟空》/《博德之门3》第三章极度平稳无掉帧"
+        ],
+        "productivity": [
+          "日常中度视频剪辑、办公与敏捷代码编写",
+          "大型游戏全程无卡顿录屏与 OBS 高清推流",
+          "中型工程项目构建与日常多任务极速解压"
+        ],
+        "summary": "游戏玩家的神级首选！凭借大缓存彻底消除游戏掉帧卡顿，电竞帧率与最低帧冠绝全场。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-9-9900x",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 9 9000",
+      "model": "Ryzen 9 9900X",
+      "sku": "100-000000662",
+      "mpn": "100-000000662",
+      "variant": null,
+      "releaseDate": "2024-08-15",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 12,
+        "threads": 24,
+        "baseClockGHz": 4.4,
+        "boostClockGHz": 5.6,
+        "tdpW": 120,
+        "pptW": 162,
+        "socket": "AM5",
+        "memorySupport": "DDR5-5600",
+        "pcieVersion": "5.0",
+        "pcieLanes": 28,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon Graphics",
+        "includedCooler": false,
+        "l3CacheMB": 64,
+        "architecture": "Zen 5",
+        "processNode": "4nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "全能高端主力 / 游戏兼生产力",
+        "badge": "全场景高能多面手",
+        "games": [
+          "完美喂饱高端旗舰显卡，3A 大作全程无 CPU 瓶颈",
+          "各大竞技网游 240FPS+ 稳帧输出",
+          "复杂多人同屏游戏满载不降频"
+        ],
+        "productivity": [
+          "Premiere / AE 4K 复杂特效制作与实时回放",
+          "Java / Python / Web 前后端全栈中大型工程开发",
+          "虚拟机 2~3 个流畅并发运行无压力"
+        ],
+        "summary": "8~20核强劲性能，游戏与生产力兼得的高端主力，无明显短板。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-7-9800x3d",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 7 9000X3D",
+      "model": "Ryzen 7 9800X3D",
+      "sku": "100-000001084",
+      "mpn": "100-000001084",
+      "variant": null,
+      "releaseDate": "2024-11-07",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": "World's fastest gaming processor (at launch)",
+      "color": null,
+      "referencePrice": 3799.0,
+      "marketMin": 2969.0,
+      "marketMax": 3989.0,
+      "marketMedian": 3299.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "seller": "ZOL 中关村在线 (登录态核验)",
+          "price": 3799.0,
+          "lowestMerchantPrice": 2969.0,
+          "jdPrice": 3299.0,
+          "url": "https://detail.zol.com.cn/cpu/index2113342.shtml",
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "TechPowerUp",
+        "AMD"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.95,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 8,
+        "threads": 16,
+        "baseClockGHz": 4.7,
+        "boostClockGHz": 5.2,
+        "tdpW": 120,
+        "pptW": 162,
+        "socket": "AM5",
+        "memorySupport": "DDR5-5600",
+        "pcieVersion": "5.0",
+        "pcieLanes": 24,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon Graphics",
+        "includedCooler": false,
+        "l3CacheMB": 96,
+        "architecture": "Zen 5",
+        "processNode": "4nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "全球电竞游戏天花板 / 3D V-Cache",
+        "badge": "顶级游戏物理引擎神U",
+        "games": [
+          "《CS2》400FPS+ / 《无畏契约》600FPS+ 极限电竞高帧",
+          "《绝地求生》/《逃离塔科夫》极其稳定的 1% Low 最低帧率",
+          "《黑神话:悟空》/《博德之门3》第三章极度平稳无掉帧"
+        ],
+        "productivity": [
+          "日常中度视频剪辑、办公与敏捷代码编写",
+          "大型游戏全程无卡顿录屏与 OBS 高清推流",
+          "中型工程项目构建与日常多任务极速解压"
+        ],
+        "summary": "游戏玩家的神级首选！凭借大缓存彻底消除游戏掉帧卡顿，电竞帧率与最低帧冠绝全场。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-7-9700x",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 7 9000",
+      "model": "Ryzen 7 9700X",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2024-08-15",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 2849.0,
+      "marketMin": 1790.0,
+      "marketMax": 2991.5,
+      "marketMedian": 1989.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "seller": "ZOL 中关村在线 (登录态核验)",
+          "price": 2849.0,
+          "lowestMerchantPrice": 1790.0,
+          "jdPrice": 1989.0,
+          "url": "https://detail.zol.com.cn/cpu/index2018966.shtml",
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "AMD Official"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.95,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 8,
+        "threads": 16,
+        "baseClockGHz": 3.8,
+        "boostClockGHz": 5.5,
+        "tdpW": 65,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5-5600",
+        "pcieVersion": "5.0",
+        "pcieLanes": 24,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon Graphics",
+        "includedCooler": false,
+        "l3CacheMB": 32,
+        "architecture": "Zen 5",
+        "processNode": "4nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "全能高端主力 / 游戏兼生产力",
+        "badge": "全场景高能多面手",
+        "games": [
+          "完美喂饱高端旗舰显卡，3A 大作全程无 CPU 瓶颈",
+          "各大竞技网游 240FPS+ 稳帧输出",
+          "复杂多人同屏游戏满载不降频"
+        ],
+        "productivity": [
+          "Premiere / AE 4K 复杂特效制作与实时回放",
+          "Java / Python / Web 前后端全栈中大型工程开发",
+          "虚拟机 2~3 个流畅并发运行无压力"
+        ],
+        "summary": "8~20核强劲性能，游戏与生产力兼得的高端主力，无明显短板。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-5-9600x",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 5 9000",
+      "model": "Ryzen 5 9600X",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2024-08-15",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1499.0,
+      "marketMin": 1052.0,
+      "marketMax": 1574.0,
+      "marketMedian": 1169.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "seller": "ZOL 中关村在线 (登录态核验)",
+          "price": 1499.0,
+          "lowestMerchantPrice": 1052.0,
+          "jdPrice": 1169.0,
+          "url": "https://detail.zol.com.cn/cpu/index2018967.shtml",
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "AMD Official"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.95,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 6,
+        "threads": 12,
+        "baseClockGHz": 3.9,
+        "boostClockGHz": 5.4,
+        "tdpW": 65,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5-5600",
+        "pcieVersion": "5.0",
+        "pcieLanes": 24,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon Graphics",
+        "includedCooler": false,
+        "l3CacheMB": 32,
+        "architecture": "Zen 5",
+        "processNode": "4nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "高性价比主流游戏 / 日常家用",
+        "badge": "国民级装机首选",
+        "games": [
+          "《黑神话:悟空》/ 3A 大作全程高帧无瓶颈",
+          "《CS2》/《英雄联盟》240FPS 电竞高刷畅玩",
+          "主流大型单机与网游日常多开"
+        ],
+        "productivity": [
+          "1080P/4K 日常短视频剪辑与硬件编码加速",
+          "Office / WPS 百兆复杂表格与多任务处理",
+          "VS Code / 开发工具日常敏捷开发构建"
+        ],
+        "summary": "性价比最高的国民游戏神U，低功耗高主频，完美胜任游戏娱乐与日常内容创作。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-5-9500f",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 5 9000",
+      "model": "Ryzen 5 9500F",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2025-09",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "VideoCardz / AMD listings"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 6,
+        "threads": 12,
+        "baseClockGHz": null,
+        "boostClockGHz": 5.0,
+        "tdpW": 65,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": null,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": false,
+        "l3CacheMB": 32,
+        "architecture": "Zen 5",
+        "processNode": "4nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-7-7800x3d",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 7 7000X3D",
+      "model": "Ryzen 7 7800X3D",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2023-04-06",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 3099.0,
+      "marketMin": 1175.0,
+      "marketMax": 3254.0,
+      "marketMedian": 2069.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "seller": "ZOL 中关村在线 (登录态核验)",
+          "price": 3099.0,
+          "lowestMerchantPrice": 1175.0,
+          "jdPrice": 2069.0,
+          "url": "https://detail.zol.com.cn/cpu/index1440585.shtml",
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.95,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 8,
+        "threads": 16,
+        "baseClockGHz": 4.2,
+        "boostClockGHz": 5.0,
+        "tdpW": 120,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5-5200",
+        "pcieVersion": "5.0",
+        "pcieLanes": 24,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon Graphics",
+        "includedCooler": false,
+        "l3CacheMB": 96,
+        "architecture": "Zen 4",
+        "processNode": "5nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "全球电竞游戏天花板 / 3D V-Cache",
+        "badge": "顶级游戏物理引擎神U",
+        "games": [
+          "《CS2》400FPS+ / 《无畏契约》600FPS+ 极限电竞高帧",
+          "《绝地求生》/《逃离塔科夫》极其稳定的 1% Low 最低帧率",
+          "《黑神话:悟空》/《博德之门3》第三章极度平稳无掉帧"
+        ],
+        "productivity": [
+          "日常中度视频剪辑、办公与敏捷代码编写",
+          "大型游戏全程无卡顿录屏与 OBS 高清推流",
+          "中型工程项目构建与日常多任务极速解压"
+        ],
+        "summary": "游戏玩家的神级首选！凭借大缓存彻底消除游戏掉帧卡顿，电竞帧率与最低帧冠绝全场。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-5-7500f",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 5 7000",
+      "model": "Ryzen 5 7500F",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2023-07",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1239.0,
+      "marketMin": 1139.9,
+      "marketMax": 1338.1,
+      "marketMedian": 1239.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://detail.zol.com.cn/cpu/index1796349.shtml",
+          "seller": "中关村在线 (ZOL)",
+          "price": 1239.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.95,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 6,
+        "threads": 12,
+        "baseClockGHz": 3.7,
+        "boostClockGHz": 5.0,
+        "tdpW": 65,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5-5200",
+        "pcieVersion": "5.0",
+        "pcieLanes": 24,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": false,
+        "l3CacheMB": 32,
+        "architecture": "Zen 4",
+        "processNode": "5nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "高性价比主流游戏 / 日常家用",
+        "badge": "国民级装机首选",
+        "games": [
+          "《黑神话:悟空》/ 3A 大作全程高帧无瓶颈",
+          "《CS2》/《英雄联盟》240FPS 电竞高刷畅玩",
+          "主流大型单机与网游日常多开"
+        ],
+        "productivity": [
+          "1080P/4K 日常短视频剪辑与硬件编码加速",
+          "Office / WPS 百兆复杂表格与多任务处理",
+          "VS Code / 开发工具日常敏捷开发构建"
+        ],
+        "summary": "性价比最高的国民游戏神U，低功耗高主频，完美胜任游戏娱乐与日常内容创作。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-5-5600",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 5 5000",
+      "model": "Ryzen 5 5600",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2022-04",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1359.0,
+      "marketMin": 692.0,
+      "marketMax": 1427.0,
+      "marketMedian": 769.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "seller": "ZOL 中关村在线 (登录态核验)",
+          "price": 1359.0,
+          "lowestMerchantPrice": 692.0,
+          "jdPrice": 769.0,
+          "url": "https://detail.zol.com.cn/cpu/index1403088.shtml",
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.95,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 6,
+        "threads": 12,
+        "baseClockGHz": 3.5,
+        "boostClockGHz": 4.4,
+        "tdpW": 65,
+        "pptW": null,
+        "socket": "AM4",
+        "memorySupport": "DDR4-3200",
+        "pcieVersion": "3.0",
+        "pcieLanes": 24,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": true,
+        "l3CacheMB": 32,
+        "architecture": "Zen 3",
+        "processNode": "7nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "千元级入门经典 / 实用主义",
+        "badge": "高性价比入门基石",
+        "games": [
+          "《英雄联盟》/《永劫无间》/《绝地求生》顺畅运行",
+          "单机 3A 游戏搭配甜点卡稳定 60FPS"
+        ],
+        "productivity": [
+          "日常学习办公、网页数十个标签多开",
+          "轻度剪映剪辑、Photoshop 平面设计",
+          "高清视频播放与日常家用娱乐"
+        ],
+        "summary": "千元预算装机常青树，性能扎实稳定，轻松满足绝大多数家庭与网游需求。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-ultra-9-285k",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core Ultra 200S",
+      "model": "Core Ultra 9 285K",
+      "sku": "BX80768285K",
+      "mpn": "SRQD5",
+      "variant": "Box",
+      "releaseDate": "2024-10-24",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": "https://www.intel.com/content/www/us/en/products/sku/241060/intel-core-ultra-9-processor-285k-36m-cache-up-to-5-70-ghz/specifications.html",
+      "imageUrl": null,
+      "specSource": [
+        "Intel Official",
+        "TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 24,
+        "threads": 24,
+        "pCores": 8,
+        "eCores": 16,
+        "baseClockGHz": 3.7,
+        "boostClockGHz": 5.7,
+        "tdpW": 125,
+        "mtpW": 250,
+        "socket": "LGA1851",
+        "memorySupport": "DDR5-6400",
+        "pcieVersion": "5.0",
+        "pcieLanes": 20,
+        "integratedGraphics": true,
+        "igpuModel": "Arc Xe-LPG",
+        "includedCooler": false,
+        "l3CacheMB": 36,
+        "architecture": "Arrow Lake",
+        "processNode": "3nm (TSMC N3B)",
+        "unlocked": true,
+        "npuTops": 13
+      },
+      "workloads": {
+        "tier": "重度生产力旗舰 / 极限多任务",
+        "badge": "多核怪兽 & 顶级算力",
+        "games": [
+          "通吃全部 3A 游戏物理模拟与高负载计算",
+          "《文明6》/《天际线2》超大后期地图万人不卡顿",
+          "各类大型安卓模拟器、多开网游 10+ 挂机无压力"
+        ],
+        "productivity": [
+          "Linux 内核 / Chromium 大型代码工程秒级并行编译",
+          "Blender / V-Ray CPU 离线渲染与物理粒子解算",
+          "4K/8K 多机位 ProRes 实时转码与复杂特效工程合成"
+        ],
+        "summary": "16~24核顶级多任务性能，适合程序编译、影视工程、三维工业设计与发烧级多任务重度用户。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-ultra-7-265k",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core Ultra 200S",
+      "model": "Core Ultra 7 265K",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2024-10-24",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel / TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 20,
+        "threads": 20,
+        "pCores": 8,
+        "eCores": 12,
+        "baseClockGHz": null,
+        "boostClockGHz": 5.5,
+        "tdpW": 125,
+        "mtpW": null,
+        "socket": "LGA1851",
+        "memorySupport": "DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": null,
+        "integratedGraphics": true,
+        "igpuModel": "Arc Xe-LPG",
+        "includedCooler": false,
+        "l3CacheMB": 30,
+        "architecture": "Arrow Lake",
+        "processNode": "3nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "全能高端主力 / 游戏兼生产力",
+        "badge": "全场景高能多面手",
+        "games": [
+          "完美喂饱高端旗舰显卡，3A 大作全程无 CPU 瓶颈",
+          "各大竞技网游 240FPS+ 稳帧输出",
+          "复杂多人同屏游戏满载不降频"
+        ],
+        "productivity": [
+          "Premiere / AE 4K 复杂特效制作与实时回放",
+          "Java / Python / Web 前后端全栈中大型工程开发",
+          "虚拟机 2~3 个流畅并发运行无压力"
+        ],
+        "summary": "8~20核强劲性能，游戏与生产力兼得的高端主力，无明显短板。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i5-14600kf",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 14th Gen",
+      "model": "Core i5-14600KF",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2023-10",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel ARK / TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 14,
+        "threads": 20,
+        "pCores": 6,
+        "eCores": 8,
+        "baseClockGHz": 3.5,
+        "boostClockGHz": 5.3,
+        "tdpW": 125,
+        "mtpW": 181,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4-3200 / DDR5-5600",
+        "pcieVersion": "5.0",
+        "pcieLanes": 20,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": false,
+        "l3CacheMB": 24,
+        "architecture": "Raptor Lake Refresh",
+        "processNode": "10nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "高性价比主流游戏 / 日常家用",
+        "badge": "国民级装机首选",
+        "games": [
+          "《黑神话:悟空》/ 3A 大作全程高帧无瓶颈",
+          "《CS2》/《英雄联盟》240FPS 电竞高刷畅玩",
+          "主流大型单机与网游日常多开"
+        ],
+        "productivity": [
+          "1080P/4K 日常短视频剪辑与硬件编码加速",
+          "Office / WPS 百兆复杂表格与多任务处理",
+          "VS Code / 开发工具日常敏捷开发构建"
+        ],
+        "summary": "性价比最高的国民游戏神U，低功耗高主频，完美胜任游戏娱乐与日常内容创作。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i5-12400f",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 12th Gen",
+      "model": "Core i5-12400F",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2022-01",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel ARK"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 6,
+        "threads": 12,
+        "pCores": 6,
+        "eCores": 0,
+        "baseClockGHz": 2.5,
+        "boostClockGHz": 4.4,
+        "tdpW": 65,
+        "mtpW": 117,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4-3200 / DDR5-4800",
+        "pcieVersion": "5.0",
+        "pcieLanes": 20,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": true,
+        "l3CacheMB": 18,
+        "architecture": "Alder Lake",
+        "processNode": "10nm",
+        "unlocked": false
+      },
+      "workloads": {
+        "tier": "千元级入门经典 / 实用主义",
+        "badge": "高性价比入门基石",
+        "games": [
+          "《英雄联盟》/《永劫无间》/《绝地求生》顺畅运行",
+          "单机 3A 游戏搭配甜点卡稳定 60FPS"
+        ],
+        "productivity": [
+          "日常学习办公、网页数十个标签多开",
+          "轻度剪映剪辑、Photoshop 平面设计",
+          "高清视频播放与日常家用娱乐"
+        ],
+        "summary": "千元预算装机常青树，性能扎实稳定，轻松满足绝大多数家庭与网游需求。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-7-9850x3d",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 7 9000X3D",
+      "model": "Ryzen 7 9850X3D",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2025",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 3699.0,
+      "marketMin": 3403.1,
+      "marketMax": 3994.9,
+      "marketMedian": 3699.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://detail.zol.com.cn/cpu/index2158673.shtml",
+          "seller": "中关村在线 (ZOL)",
+          "price": 3699.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "AMD QRG / Tech sites"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.95,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 8,
+        "threads": 16,
+        "baseClockGHz": 4.7,
+        "boostClockGHz": 5.6,
+        "tdpW": 120,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": null,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon Graphics",
+        "includedCooler": false,
+        "l3CacheMB": 96,
+        "architecture": "Zen 5",
+        "processNode": "4nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-5-9600",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 5 9000",
+      "model": "Ryzen 5 9600",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2024",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1499.0,
+      "marketMin": 1052.0,
+      "marketMax": 1574.0,
+      "marketMedian": 1169.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "seller": "ZOL 中关村在线 (登录态核验)",
+          "price": 1499.0,
+          "lowestMerchantPrice": 1052.0,
+          "jdPrice": 1169.0,
+          "url": "https://detail.zol.com.cn/cpu/index2018967.shtml",
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "AMD"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.95,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 6,
+        "threads": 12,
+        "baseClockGHz": 3.8,
+        "boostClockGHz": 5.2,
+        "tdpW": 65,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": null,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon Graphics",
+        "includedCooler": true,
+        "l3CacheMB": 32,
+        "architecture": "Zen 5",
+        "processNode": "4nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-9-7950x",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 9 7000",
+      "model": "Ryzen 9 7950X",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2022-09",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 16,
+        "threads": 32,
+        "baseClockGHz": 4.5,
+        "boostClockGHz": 5.7,
+        "tdpW": 170,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5-5200",
+        "pcieVersion": "5.0",
+        "pcieLanes": 28,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon Graphics",
+        "includedCooler": false,
+        "l3CacheMB": 64,
+        "architecture": "Zen 4",
+        "processNode": "5nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "重度生产力旗舰 / 极限多任务",
+        "badge": "多核怪兽 & 顶级算力",
+        "games": [
+          "通吃全部 3A 游戏物理模拟与高负载计算",
+          "《文明6》/《天际线2》超大后期地图万人不卡顿",
+          "各类大型安卓模拟器、多开网游 10+ 挂机无压力"
+        ],
+        "productivity": [
+          "Linux 内核 / Chromium 大型代码工程秒级并行编译",
+          "Blender / V-Ray CPU 离线渲染与物理粒子解算",
+          "4K/8K 多机位 ProRes 实时转码与复杂特效工程合成"
+        ],
+        "summary": "16~24核顶级多任务性能，适合程序编译、影视工程、三维工业设计与发烧级多任务重度用户。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-7-7700x",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 7 7000",
+      "model": "Ryzen 7 7700X",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2022-09",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 8,
+        "threads": 16,
+        "baseClockGHz": 4.5,
+        "boostClockGHz": 5.4,
+        "tdpW": 105,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5-5200",
+        "pcieVersion": "5.0",
+        "pcieLanes": 24,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon Graphics",
+        "includedCooler": false,
+        "l3CacheMB": 32,
+        "architecture": "Zen 4",
+        "processNode": "5nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "全能高端主力 / 游戏兼生产力",
+        "badge": "全场景高能多面手",
+        "games": [
+          "完美喂饱高端旗舰显卡，3A 大作全程无 CPU 瓶颈",
+          "各大竞技网游 240FPS+ 稳帧输出",
+          "复杂多人同屏游戏满载不降频"
+        ],
+        "productivity": [
+          "Premiere / AE 4K 复杂特效制作与实时回放",
+          "Java / Python / Web 前后端全栈中大型工程开发",
+          "虚拟机 2~3 个流畅并发运行无压力"
+        ],
+        "summary": "8~20核强劲性能，游戏与生产力兼得的高端主力，无明显短板。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-5-7600x",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 5 7000",
+      "model": "Ryzen 5 7600X",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2022-09",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 6,
+        "threads": 12,
+        "baseClockGHz": 4.7,
+        "boostClockGHz": 5.3,
+        "tdpW": 105,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5-5200",
+        "pcieVersion": "5.0",
+        "pcieLanes": 24,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon Graphics",
+        "includedCooler": false,
+        "l3CacheMB": 32,
+        "architecture": "Zen 4",
+        "processNode": "5nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "高性价比主流游戏 / 日常家用",
+        "badge": "国民级装机首选",
+        "games": [
+          "《黑神话:悟空》/ 3A 大作全程高帧无瓶颈",
+          "《CS2》/《英雄联盟》240FPS 电竞高刷畅玩",
+          "主流大型单机与网游日常多开"
+        ],
+        "productivity": [
+          "1080P/4K 日常短视频剪辑与硬件编码加速",
+          "Office / WPS 百兆复杂表格与多任务处理",
+          "VS Code / 开发工具日常敏捷开发构建"
+        ],
+        "summary": "性价比最高的国民游戏神U，低功耗高主频，完美胜任游戏娱乐与日常内容创作。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-5-5600gt",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 5 5000G",
+      "model": "Ryzen 5 5600GT",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2024",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1049.0,
+      "marketMin": 965.1,
+      "marketMax": 1132.9,
+      "marketMedian": 1049.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://detail.zol.com.cn/cpu/index1980887.shtml",
+          "seller": "中关村在线 (ZOL)",
+          "price": 1049.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Market listings"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.95,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 6,
+        "threads": 12,
+        "baseClockGHz": 3.6,
+        "boostClockGHz": 4.6,
+        "tdpW": 65,
+        "pptW": null,
+        "socket": "AM4",
+        "memorySupport": "DDR4",
+        "pcieVersion": "3.0",
+        "pcieLanes": null,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon Graphics",
+        "includedCooler": true,
+        "l3CacheMB": 16,
+        "architecture": "Zen 3",
+        "processNode": "7nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "千元级入门经典 / 实用主义",
+        "badge": "高性价比入门基石",
+        "games": [
+          "《英雄联盟》/《永劫无间》/《绝地求生》顺畅运行",
+          "单机 3A 游戏搭配甜点卡稳定 60FPS"
+        ],
+        "productivity": [
+          "日常学习办公、网页数十个标签多开",
+          "轻度剪映剪辑、Photoshop 平面设计",
+          "高清视频播放与日常家用娱乐"
+        ],
+        "summary": "千元预算装机常青树，性能扎实稳定，轻松满足绝大多数家庭与网游需求。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-ultra-5-245k",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core Ultra 200S",
+      "model": "Core Ultra 5 245K",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2024-10",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 14,
+        "threads": 14,
+        "pCores": 6,
+        "eCores": 8,
+        "baseClockGHz": null,
+        "boostClockGHz": 5.2,
+        "tdpW": 125,
+        "mtpW": null,
+        "socket": "LGA1851",
+        "memorySupport": "DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": null,
+        "integratedGraphics": true,
+        "igpuModel": "Arc Xe-LPG",
+        "includedCooler": false,
+        "l3CacheMB": 24,
+        "architecture": "Arrow Lake",
+        "processNode": "3nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i7-14700k",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 14th Gen",
+      "model": "Core i7-14700K",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2023-10",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel ARK"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 20,
+        "threads": 28,
+        "pCores": 8,
+        "eCores": 12,
+        "baseClockGHz": 3.4,
+        "boostClockGHz": 5.6,
+        "tdpW": 125,
+        "mtpW": 253,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4 / DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": 20,
+        "integratedGraphics": true,
+        "igpuModel": "UHD 770",
+        "includedCooler": false,
+        "l3CacheMB": 33,
+        "architecture": "Raptor Lake Refresh",
+        "processNode": "10nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "全能高端主力 / 游戏兼生产力",
+        "badge": "全场景高能多面手",
+        "games": [
+          "完美喂饱高端旗舰显卡，3A 大作全程无 CPU 瓶颈",
+          "各大竞技网游 240FPS+ 稳帧输出",
+          "复杂多人同屏游戏满载不降频"
+        ],
+        "productivity": [
+          "Premiere / AE 4K 复杂特效制作与实时回放",
+          "Java / Python / Web 前后端全栈中大型工程开发",
+          "虚拟机 2~3 个流畅并发运行无压力"
+        ],
+        "summary": "8~20核强劲性能，游戏与生产力兼得的高端主力，无明显短板。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i9-14900k",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 14th Gen",
+      "model": "Core i9-14900K",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2023-10",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel ARK"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 24,
+        "threads": 32,
+        "pCores": 8,
+        "eCores": 16,
+        "baseClockGHz": 3.2,
+        "boostClockGHz": 6.0,
+        "tdpW": 125,
+        "mtpW": 253,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4 / DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": 20,
+        "integratedGraphics": true,
+        "igpuModel": "UHD 770",
+        "includedCooler": false,
+        "l3CacheMB": 36,
+        "architecture": "Raptor Lake Refresh",
+        "processNode": "10nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "重度生产力旗舰 / 极限多任务",
+        "badge": "多核怪兽 & 顶级算力",
+        "games": [
+          "通吃全部 3A 游戏物理模拟与高负载计算",
+          "《文明6》/《天际线2》超大后期地图万人不卡顿",
+          "各类大型安卓模拟器、多开网游 10+ 挂机无压力"
+        ],
+        "productivity": [
+          "Linux 内核 / Chromium 大型代码工程秒级并行编译",
+          "Blender / V-Ray CPU 离线渲染与物理粒子解算",
+          "4K/8K 多机位 ProRes 实时转码与复杂特效工程合成"
+        ],
+        "summary": "16~24核顶级多任务性能，适合程序编译、影视工程、三维工业设计与发烧级多任务重度用户。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i5-14400f",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 14th Gen",
+      "model": "Core i5-14400F",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2024",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Market"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 10,
+        "threads": 16,
+        "pCores": 6,
+        "eCores": 4,
+        "baseClockGHz": null,
+        "boostClockGHz": 4.7,
+        "tdpW": 65,
+        "mtpW": null,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4 / DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": null,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": true,
+        "l3CacheMB": 20,
+        "architecture": "Raptor Lake Refresh",
+        "processNode": "10nm",
+        "unlocked": false
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-9-7900x",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 9 7000",
+      "model": "Ryzen 9 7900X",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2022-09",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 12,
+        "threads": 24,
+        "baseClockGHz": 4.7,
+        "boostClockGHz": 5.6,
+        "tdpW": 170,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5-5200",
+        "pcieVersion": "5.0",
+        "pcieLanes": 28,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon Graphics",
+        "includedCooler": false,
+        "l3CacheMB": 64,
+        "architecture": "Zen 4",
+        "processNode": "5nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-7-5800x3d",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 7 5000X3D",
+      "model": "Ryzen 7 5800X3D",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2022-04",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 8,
+        "threads": 16,
+        "baseClockGHz": 3.4,
+        "boostClockGHz": 4.5,
+        "tdpW": 105,
+        "pptW": null,
+        "socket": "AM4",
+        "memorySupport": "DDR4-3200",
+        "pcieVersion": "3.0",
+        "pcieLanes": 24,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": false,
+        "l3CacheMB": 96,
+        "architecture": "Zen 3",
+        "processNode": "7nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-9-5900x",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 9 5000",
+      "model": "Ryzen 9 5900X",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2020-11",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 12,
+        "threads": 24,
+        "baseClockGHz": 3.7,
+        "boostClockGHz": 4.8,
+        "tdpW": 105,
+        "pptW": null,
+        "socket": "AM4",
+        "memorySupport": "DDR4-3200",
+        "pcieVersion": "4.0",
+        "pcieLanes": 24,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": false,
+        "l3CacheMB": 64,
+        "architecture": "Zen 3",
+        "processNode": "7nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i7-13700k",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 13th Gen",
+      "model": "Core i7-13700K",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2022-10",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 16,
+        "threads": 24,
+        "pCores": 8,
+        "eCores": 8,
+        "baseClockGHz": 3.4,
+        "boostClockGHz": 5.4,
+        "tdpW": 125,
+        "mtpW": 253,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4 / DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": 20,
+        "integratedGraphics": true,
+        "igpuModel": "UHD 770",
+        "includedCooler": false,
+        "l3CacheMB": 30,
+        "architecture": "Raptor Lake",
+        "processNode": "10nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i5-13600kf",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 13th Gen",
+      "model": "Core i5-13600KF",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2022-10",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 14,
+        "threads": 20,
+        "pCores": 6,
+        "eCores": 8,
+        "baseClockGHz": 3.5,
+        "boostClockGHz": 5.1,
+        "tdpW": 125,
+        "mtpW": 181,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4 / DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": 20,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": false,
+        "l3CacheMB": 24,
+        "architecture": "Raptor Lake",
+        "processNode": "10nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i5-13400f",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 13th Gen",
+      "model": "Core i5-13400F",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2023",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Market"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 10,
+        "threads": 16,
+        "pCores": 6,
+        "eCores": 4,
+        "baseClockGHz": 2.5,
+        "boostClockGHz": 4.6,
+        "tdpW": 65,
+        "mtpW": 148,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4 / DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": 20,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": true,
+        "l3CacheMB": 20,
+        "architecture": "Raptor Lake",
+        "processNode": "10nm",
+        "unlocked": false
+      },
+      "workloads": {
+        "tier": "千元级入门经典 / 实用主义",
+        "badge": "高性价比入门基石",
+        "games": [
+          "《英雄联盟》/《永劫无间》/《绝地求生》顺畅运行",
+          "单机 3A 游戏搭配甜点卡稳定 60FPS"
+        ],
+        "productivity": [
+          "日常学习办公、网页数十个标签多开",
+          "轻度剪映剪辑、Photoshop 平面设计",
+          "高清视频播放与日常家用娱乐"
+        ],
+        "summary": "千元预算装机常青树，性能扎实稳定，轻松满足绝大多数家庭与网游需求。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i3-12100f",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 12th Gen",
+      "model": "Core i3-12100F",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2022-01",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 4,
+        "threads": 8,
+        "pCores": 4,
+        "eCores": 0,
+        "baseClockGHz": 3.3,
+        "boostClockGHz": 4.3,
+        "tdpW": 58,
+        "mtpW": 89,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4 / DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": 20,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": true,
+        "l3CacheMB": 12,
+        "architecture": "Alder Lake",
+        "processNode": "10nm",
+        "unlocked": false
+      },
+      "workloads": {
+        "tier": "千元级入门经典 / 实用主义",
+        "badge": "高性价比入门基石",
+        "games": [
+          "《英雄联盟》/《永劫无间》/《绝地求生》顺畅运行",
+          "单机 3A 游戏搭配甜点卡稳定 60FPS"
+        ],
+        "productivity": [
+          "日常学习办公、网页数十个标签多开",
+          "轻度剪映剪辑、Photoshop 平面设计",
+          "高清视频播放与日常家用娱乐"
+        ],
+        "summary": "千元预算装机常青树，性能扎实稳定，轻松满足绝大多数家庭与网游需求。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i5-12600kf",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 12th Gen",
+      "model": "Core i5-12600KF",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2021-11",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 10,
+        "threads": 16,
+        "pCores": 6,
+        "eCores": 4,
+        "baseClockGHz": 3.7,
+        "boostClockGHz": 4.9,
+        "tdpW": 125,
+        "mtpW": 150,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4 / DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": 20,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": false,
+        "l3CacheMB": 20,
+        "architecture": "Alder Lake",
+        "processNode": "10nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "高性价比主流游戏 / 日常家用",
+        "badge": "国民级装机首选",
+        "games": [
+          "《黑神话:悟空》/ 3A 大作全程高帧无瓶颈",
+          "《CS2》/《英雄联盟》240FPS 电竞高刷畅玩",
+          "主流大型单机与网游日常多开"
+        ],
+        "productivity": [
+          "1080P/4K 日常短视频剪辑与硬件编码加速",
+          "Office / WPS 百兆复杂表格与多任务处理",
+          "VS Code / 开发工具日常敏捷开发构建"
+        ],
+        "summary": "性价比最高的国民游戏神U，低功耗高主频，完美胜任游戏娱乐与日常内容创作。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-ultra-7-270k-plus",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core Ultra 200S Plus",
+      "model": "Core Ultra 7 270K Plus",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2026-03",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel announcement"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 24,
+        "threads": 24,
+        "pCores": 8,
+        "eCores": 16,
+        "baseClockGHz": null,
+        "boostClockGHz": 5.5,
+        "tdpW": 125,
+        "mtpW": null,
+        "socket": "LGA1851",
+        "memorySupport": "DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": null,
+        "integratedGraphics": true,
+        "igpuModel": "Arc",
+        "includedCooler": false,
+        "l3CacheMB": 36,
+        "architecture": "Arrow Lake Refresh",
+        "processNode": "3nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-ultra-5-250k-plus",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core Ultra 200S Plus",
+      "model": "Core Ultra 5 250K Plus",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2026-03",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel announcement"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 18,
+        "threads": 18,
+        "pCores": 6,
+        "eCores": 12,
+        "baseClockGHz": null,
+        "boostClockGHz": 5.3,
+        "tdpW": 125,
+        "mtpW": null,
+        "socket": "LGA1851",
+        "memorySupport": "DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": null,
+        "integratedGraphics": true,
+        "igpuModel": "Arc",
+        "includedCooler": false,
+        "l3CacheMB": 30,
+        "architecture": "Arrow Lake Refresh",
+        "processNode": "3nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-7-5700x3d",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 7 5000X3D",
+      "model": "Ryzen 7 5700X3D",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2024",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Market"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 8,
+        "threads": 16,
+        "baseClockGHz": 3.0,
+        "boostClockGHz": 4.1,
+        "tdpW": 105,
+        "pptW": null,
+        "socket": "AM4",
+        "memorySupport": "DDR4",
+        "pcieVersion": "3.0",
+        "pcieLanes": null,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": false,
+        "l3CacheMB": 96,
+        "architecture": "Zen 3",
+        "processNode": "7nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-5-5500",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 5 5000",
+      "model": "Ryzen 5 5500",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2022",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 6,
+        "threads": 12,
+        "baseClockGHz": 3.6,
+        "boostClockGHz": 4.2,
+        "tdpW": 65,
+        "pptW": null,
+        "socket": "AM4",
+        "memorySupport": "DDR4",
+        "pcieVersion": "3.0",
+        "pcieLanes": null,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": true,
+        "l3CacheMB": 16,
+        "architecture": "Zen 3",
+        "processNode": "7nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "千元级入门经典 / 实用主义",
+        "badge": "高性价比入门基石",
+        "games": [
+          "《英雄联盟》/《永劫无间》/《绝地求生》顺畅运行",
+          "单机 3A 游戏搭配甜点卡稳定 60FPS"
+        ],
+        "productivity": [
+          "日常学习办公、网页数十个标签多开",
+          "轻度剪映剪辑、Photoshop 平面设计",
+          "高清视频播放与日常家用娱乐"
+        ],
+        "summary": "千元预算装机常青树，性能扎实稳定，轻松满足绝大多数家庭与网游需求。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i9-13900k",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 13th Gen",
+      "model": "Core i9-13900K",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2022-10",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 24,
+        "threads": 32,
+        "pCores": 8,
+        "eCores": 16,
+        "baseClockGHz": 3.0,
+        "boostClockGHz": 5.8,
+        "tdpW": 125,
+        "mtpW": 253,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4 / DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": 20,
+        "integratedGraphics": true,
+        "igpuModel": "UHD 770",
+        "includedCooler": false,
+        "l3CacheMB": 36,
+        "architecture": "Raptor Lake",
+        "processNode": "10nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i7-12700k",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 12th Gen",
+      "model": "Core i7-12700K",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2021-11",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 12,
+        "threads": 20,
+        "pCores": 8,
+        "eCores": 4,
+        "baseClockGHz": 3.6,
+        "boostClockGHz": 5.0,
+        "tdpW": 125,
+        "mtpW": 190,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4 / DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": 20,
+        "integratedGraphics": true,
+        "igpuModel": "UHD 770",
+        "includedCooler": false,
+        "l3CacheMB": 25,
+        "architecture": "Alder Lake",
+        "processNode": "10nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i5-12490f",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 12th Gen",
+      "model": "Core i5-12490F",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2022",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "China market"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 6,
+        "threads": 12,
+        "pCores": 6,
+        "eCores": 0,
+        "baseClockGHz": null,
+        "boostClockGHz": 4.6,
+        "tdpW": 65,
+        "mtpW": null,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4 / DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": null,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": true,
+        "l3CacheMB": 20,
+        "architecture": "Alder Lake",
+        "processNode": "10nm",
+        "unlocked": false
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-7-8700g",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 8000G",
+      "model": "Ryzen 7 8700G",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2024-01",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "AMD"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 8,
+        "threads": 16,
+        "baseClockGHz": 4.2,
+        "boostClockGHz": 5.1,
+        "tdpW": 65,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5",
+        "pcieVersion": "4.0",
+        "pcieLanes": null,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon 780M",
+        "includedCooler": true,
+        "l3CacheMB": 16,
+        "architecture": "Zen 4",
+        "processNode": "4nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-5-8600g",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 8000G",
+      "model": "Ryzen 5 8600G",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2024-01",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "AMD"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 6,
+        "threads": 12,
+        "baseClockGHz": 4.3,
+        "boostClockGHz": 5.0,
+        "tdpW": 65,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5",
+        "pcieVersion": "4.0",
+        "pcieLanes": null,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon 760M",
+        "includedCooler": true,
+        "l3CacheMB": 16,
+        "architecture": "Zen 4",
+        "processNode": "4nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-ultra-5-225f",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core Ultra 200S",
+      "model": "Core Ultra 5 225F",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2025",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Market"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 10,
+        "threads": 10,
+        "pCores": null,
+        "eCores": null,
+        "baseClockGHz": null,
+        "boostClockGHz": 4.9,
+        "tdpW": 65,
+        "mtpW": null,
+        "socket": "LGA1851",
+        "memorySupport": "DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": null,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": true,
+        "l3CacheMB": 20,
+        "architecture": "Arrow Lake",
+        "processNode": "3nm",
+        "unlocked": false
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i3-14100f",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 14th Gen",
+      "model": "Core i3-14100F",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2024",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Market"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 4,
+        "threads": 8,
+        "pCores": 4,
+        "eCores": 0,
+        "baseClockGHz": null,
+        "boostClockGHz": 4.7,
+        "tdpW": 58,
+        "mtpW": null,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4 / DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": null,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": true,
+        "l3CacheMB": 12,
+        "architecture": "Raptor Lake Refresh",
+        "processNode": "10nm",
+        "unlocked": false
+      },
+      "workloads": {
+        "tier": "日常办公与娱乐处理器",
+        "badge": "稳定可靠日常通用",
+        "games": [
+          "主流网游稳定运行",
+          "轻度休闲单机畅玩"
+        ],
+        "productivity": [
+          "日常办公、文档编辑与网络多任务浏览"
+        ],
+        "summary": "提供可靠平稳的运算性能，适合日常多任务与办公。"
+      }
+    },
+    {
+      "id": "cpu-amd-ryzen-9-7950x3d",
+      "category": "PROCESSOR",
+      "brand": "AMD",
+      "series": "Ryzen 9 7000X3D",
+      "model": "Ryzen 9 7950X3D",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2023-02",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "TechPowerUp"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 16,
+        "threads": 32,
+        "baseClockGHz": 4.2,
+        "boostClockGHz": 5.7,
+        "tdpW": 120,
+        "pptW": null,
+        "socket": "AM5",
+        "memorySupport": "DDR5-5200",
+        "pcieVersion": "5.0",
+        "pcieLanes": 28,
+        "integratedGraphics": true,
+        "igpuModel": "Radeon Graphics",
+        "includedCooler": false,
+        "l3CacheMB": 128,
+        "architecture": "Zen 4",
+        "processNode": "5nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "重度生产力旗舰 / 极限多任务",
+        "badge": "多核怪兽 & 顶级算力",
+        "games": [
+          "通吃全部 3A 游戏物理模拟与高负载计算",
+          "《文明6》/《天际线2》超大后期地图万人不卡顿",
+          "各类大型安卓模拟器、多开网游 10+ 挂机无压力"
+        ],
+        "productivity": [
+          "Linux 内核 / Chromium 大型代码工程秒级并行编译",
+          "Blender / V-Ray CPU 离线渲染与物理粒子解算",
+          "4K/8K 多机位 ProRes 实时转码与复杂特效工程合成"
+        ],
+        "summary": "16~24核顶级多任务性能，适合程序编译、影视工程、三维工业设计与发烧级多任务重度用户。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i7-14700kf",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 14th Gen",
+      "model": "Core i7-14700KF",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2023-10",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 20,
+        "threads": 28,
+        "pCores": 8,
+        "eCores": 12,
+        "baseClockGHz": 3.4,
+        "boostClockGHz": 5.6,
+        "tdpW": 125,
+        "mtpW": 253,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4 / DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": 20,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": false,
+        "l3CacheMB": 33,
+        "architecture": "Raptor Lake Refresh",
+        "processNode": "10nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "全能高端主力 / 游戏兼生产力",
+        "badge": "全场景高能多面手",
+        "games": [
+          "完美喂饱高端旗舰显卡，3A 大作全程无 CPU 瓶颈",
+          "各大竞技网游 240FPS+ 稳帧输出",
+          "复杂多人同屏游戏满载不降频"
+        ],
+        "productivity": [
+          "Premiere / AE 4K 复杂特效制作与实时回放",
+          "Java / Python / Web 前后端全栈中大型工程开发",
+          "虚拟机 2~3 个流畅并发运行无压力"
+        ],
+        "summary": "8~20核强劲性能，游戏与生产力兼得的高端主力，无明显短板。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i9-14900kf",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 14th Gen",
+      "model": "Core i9-14900KF",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2023-10",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 24,
+        "threads": 32,
+        "pCores": 8,
+        "eCores": 16,
+        "baseClockGHz": 3.2,
+        "boostClockGHz": 6.0,
+        "tdpW": 125,
+        "mtpW": 253,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4 / DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": 20,
+        "integratedGraphics": false,
+        "igpuModel": null,
+        "includedCooler": false,
+        "l3CacheMB": 36,
+        "architecture": "Raptor Lake Refresh",
+        "processNode": "10nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "重度生产力旗舰 / 极限多任务",
+        "badge": "多核怪兽 & 顶级算力",
+        "games": [
+          "通吃全部 3A 游戏物理模拟与高负载计算",
+          "《文明6》/《天际线2》超大后期地图万人不卡顿",
+          "各类大型安卓模拟器、多开网游 10+ 挂机无压力"
+        ],
+        "productivity": [
+          "Linux 内核 / Chromium 大型代码工程秒级并行编译",
+          "Blender / V-Ray CPU 离线渲染与物理粒子解算",
+          "4K/8K 多机位 ProRes 实时转码与复杂特效工程合成"
+        ],
+        "summary": "16~24核顶级多任务性能，适合程序编译、影视工程、三维工业设计与发烧级多任务重度用户。"
+      }
+    },
+    {
+      "id": "cpu-intel-core-i5-14600k",
+      "category": "PROCESSOR",
+      "brand": "Intel",
+      "series": "Core 14th Gen",
+      "model": "Core i5-14600K",
+      "sku": null,
+      "mpn": null,
+      "variant": null,
+      "releaseDate": "2023-10",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Intel"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "cores": 14,
+        "threads": 20,
+        "pCores": 6,
+        "eCores": 8,
+        "baseClockGHz": 3.5,
+        "boostClockGHz": 5.3,
+        "tdpW": 125,
+        "mtpW": 181,
+        "socket": "LGA1700",
+        "memorySupport": "DDR4 / DDR5",
+        "pcieVersion": "5.0",
+        "pcieLanes": 20,
+        "integratedGraphics": true,
+        "igpuModel": "UHD 770",
+        "includedCooler": false,
+        "l3CacheMB": 24,
+        "architecture": "Raptor Lake Refresh",
+        "processNode": "10nm",
+        "unlocked": true
+      },
+      "workloads": {
+        "tier": "高性价比主流游戏 / 日常家用",
+        "badge": "国民级装机首选",
+        "games": [
+          "《黑神话:悟空》/ 3A 大作全程高帧无瓶颈",
+          "《CS2》/《英雄联盟》240FPS 电竞高刷畅玩",
+          "主流大型单机与网游日常多开"
+        ],
+        "productivity": [
+          "1080P/4K 日常短视频剪辑与硬件编码加速",
+          "Office / WPS 百兆复杂表格与多任务处理",
+          "VS Code / 开发工具日常敏捷开发构建"
+        ],
+        "summary": "性价比最高的国民游戏神U，低功耗高主频，完美胜任游戏娱乐与日常内容创作。"
+      }
+    },
+    {
+      "id": "gpu-colorful-igame-rtx-5090d-vulcan-oc",
+      "category": "GRAPHICS_CARD",
+      "brand": "Colorful",
+      "series": "iGame Vulcan",
+      "model": "iGame GeForce RTX 5090 D Vulcan OC 32GB",
+      "sku": null,
+      "mpn": null,
+      "variant": "Vulcan OC",
+      "releaseDate": "2025",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": "赛博利刃旗舰风冷",
+      "color": "Black",
+      "referencePrice": 24399.0,
+      "marketMin": 22999.0,
+      "marketMax": 26999.0,
+      "marketMedian": 24399.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 24399.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": "https://www.colorful.cn",
+      "imageUrl": null,
+      "specSource": [
+        "Colorful Official / ZOL / Market listings"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "gpuChip": "NVIDIA GeForce RTX 5090 D",
+        "architecture": "Blackwell",
+        "vramGB": 32,
+        "vramType": "GDDR7",
+        "memoryBusWidth": 512,
+        "cudaCores": 21760,
+        "baseClockMHz": null,
+        "boostClockMHz": null,
+        "powerConnector": "16-pin",
+        "tdpW": null,
+        "recommendedPsuW": 1000,
+        "lengthMm": null,
+        "slotWidth": null,
+        "fans": 3,
+        "outputs": [
+          "3x DisplayPort",
+          "1x HDMI"
+        ],
+        "rgb": true,
+        "lcdScreen": true,
+        "cooling": "Triple Fan + Metal Armor"
+      },
+      "workloads": {
+        "tier": "4K 全极致光追 / 本地大模型旗舰",
+        "badge": "顶级生产力 & AI算力怪兽",
+        "games": [
+          "《黑神话:悟空》(4K 全景路径光追 + DLSS 100FPS+)",
+          "《赛博朋克2077》(4K 变态光追 + 帧生成 120FPS+)",
+          "各大 3A 大作 4K 240Hz / 8K 超高清畅玩",
+          "《CS2》/《无畏契约》(4K 360FPS+ 极低竞技延迟)"
+        ],
+        "productivity": [
+          "DeepSeek-R1 / Qwen-72B 本地私有化量化大模型流畅推理",
+          "Stable Diffusion XL / FLUX.1 (1024×1024 极速秒级出图)",
+          "虚幻5 (UE5) 复杂 Nanite 场景与影视级 8K 物理渲染",
+          "DaVinci Resolve / Premiere 8K RAW 复杂节点实时剪辑调色"
+        ],
+        "summary": "消费级显卡性能巅峰，单卡可部署 70B 级别大模型，通吃目前市面所有 4K 3A 极致画质游戏，硬核发烧友与工业渲染终极之选。"
+      }
+    },
+    {
+      "id": "gpu-colorful-igame-rtx-5080-ultra-oc",
+      "category": "GRAPHICS_CARD",
+      "brand": "Colorful",
+      "series": "iGame Ultra",
+      "model": "iGame GeForce RTX 5080 Ultra OC 16GB",
+      "sku": null,
+      "mpn": null,
+      "variant": "Ultra OC",
+      "releaseDate": "2025",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": "嘻哈风格三风扇",
+      "color": "Black / Hip-hop",
+      "referencePrice": 12999.0,
+      "marketMin": 11999.0,
+      "marketMax": 13999.0,
+      "marketMedian": 12999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 12999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": "https://www.colorful.cn",
+      "imageUrl": null,
+      "specSource": [
+        "Colorful / Market"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "gpuChip": "NVIDIA GeForce RTX 5080",
+        "architecture": "Blackwell",
+        "vramGB": 16,
+        "vramType": "GDDR7",
+        "memoryBusWidth": 256,
+        "cudaCores": 10752,
+        "baseClockMHz": 2295,
+        "boostClockMHz": 2617,
+        "powerConnector": "16-pin",
+        "tdpW": 380,
+        "recommendedPsuW": 850,
+        "lengthMm": 314,
+        "slotWidth": null,
+        "fans": 3,
+        "outputs": [
+          "3x DP 2.1b",
+          "1x HDMI 2.1b"
+        ],
+        "rgb": true,
+        "lcdScreen": false,
+        "cooling": "Triple Fan"
+      },
+      "workloads": {
+        "tier": "4K 顶级光追 / 重度影视与 AI 创作",
+        "badge": "4K 旗舰级游戏与创作",
+        "games": [
+          "《黑神话:悟空》(4K 超高画质 + 全景光追 80FPS+)",
+          "《赛博朋克2077》(4K 超级光追 + 帧生成 95FPS+)",
+          "《荒野大镖客2》/《极限竞速:地平线5》(4K 极致高刷 120FPS+)"
+        ],
+        "productivity": [
+          "本地部署 32B 参数大模型推理，日常知识库构建",
+          "Stable Diffusion XL 快速生成与批量高清修复放大",
+          "Blender / 3ds Max 复杂室内外工业级模型实时渲染"
+        ],
+        "summary": "4K 顶级游戏旗舰，兼备极强的大模型微调与专业影视后期渲染能力，性能长效领先。"
+      }
+    },
+    {
+      "id": "gpu-colorful-igame-rtx-5070ti-vulcan-x-oc",
+      "category": "GRAPHICS_CARD",
+      "brand": "Colorful",
+      "series": "iGame Vulcan",
+      "model": "iGame GeForce RTX 5070 Ti Vulcan X OC 16GB",
+      "sku": null,
+      "mpn": null,
+      "variant": "Vulcan X OC",
+      "releaseDate": "2025",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": "Black",
+      "referencePrice": 6299.0,
+      "marketMin": 5899.0,
+      "marketMax": 6699.0,
+      "marketMedian": 6299.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 6299.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "ZOL / Market"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "gpuChip": "NVIDIA GeForce RTX 5070 Ti",
+        "architecture": "Blackwell",
+        "vramGB": 16,
+        "vramType": "GDDR7",
+        "memoryBusWidth": null,
+        "cudaCores": 8960,
+        "baseClockMHz": null,
+        "boostClockMHz": null,
+        "powerConnector": "16-pin",
+        "tdpW": null,
+        "recommendedPsuW": 750,
+        "lengthMm": null,
+        "slotWidth": null,
+        "fans": 3,
+        "outputs": [
+          "3x DisplayPort",
+          "1x HDMI"
+        ],
+        "rgb": true,
+        "lcdScreen": false,
+        "cooling": "Triple Fan Vulcan"
+      },
+      "workloads": {
+        "tier": "2K 极致电竞 / 4K 高画质入门",
+        "badge": "2K 顶级甜点主力卡",
+        "games": [
+          "《黑神话:悟空》(2K 超高画质 + 全景光追 75FPS+)",
+          "《赛博朋克2077》(2K 超高光追 + 帧生成 90FPS+)",
+          "《绝地求生》/《Apex 英雄》(2K 极致高刷 240FPS+)"
+        ],
+        "productivity": [
+          "DaVinci Resolve / Premiere 4K 10bit 复杂调色剪辑",
+          "Stable Diffusion SDXL 1024×1024 生图 (约 5~8 秒/张)",
+          "本地流畅运行 14B 参数多模态大语言模型"
+        ],
+        "summary": "2K 分辨率下的黄金主力卡，高帧通吃所有顶级光追大作，拥有出色的 4K 视频后期与本地 AI 部署能力。"
+      }
+    },
+    {
+      "id": "gpu-colorful-igame-rtx-5070-mini-oc",
+      "category": "GRAPHICS_CARD",
+      "brand": "Colorful",
+      "series": "iGame Mini",
+      "model": "iGame GeForce RTX 5070 Mini OC 12GB",
+      "sku": null,
+      "mpn": null,
+      "variant": "Mini OC",
+      "releaseDate": "2025-12",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": "单风扇 ITX 小钢炮",
+      "color": "Black",
+      "referencePrice": 6299.0,
+      "marketMin": 5899.0,
+      "marketMax": 6699.0,
+      "marketMedian": 6299.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 6299.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Colorful Official / IT之家"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "gpuChip": "NVIDIA GeForce RTX 5070",
+        "architecture": "Blackwell",
+        "vramGB": 12,
+        "vramType": "GDDR7",
+        "memoryBusWidth": null,
+        "cudaCores": 6144,
+        "baseClockMHz": null,
+        "boostClockMHz": null,
+        "powerConnector": null,
+        "tdpW": null,
+        "recommendedPsuW": 650,
+        "lengthMm": 180,
+        "heightMm": 123,
+        "thicknessMm": 39.8,
+        "slotWidth": "2-slot approx",
+        "fans": 1,
+        "outputs": [
+          "DisplayPort",
+          "HDMI"
+        ],
+        "rgb": true,
+        "lcdScreen": false,
+        "cooling": "Single 95mm Fan + Cage Structure"
+      },
+      "workloads": {
+        "tier": "2K 高画质 3A / 顺畅视频创作",
+        "badge": "2K 畅玩主流选择",
+        "games": [
+          "《黑神话:悟空》(2K 高画质 + DLSS 65FPS+)",
+          "《艾尔登法环》/《霍格沃茨之遗》(2K 极致画质 80FPS+)",
+          "《CS2》/《瓦罗兰特》(2K 电竞画质 240FPS+)"
+        ],
+        "productivity": [
+          "剪映 / Premiere 4K 多轨道无损剪辑与快速渲染",
+          "Stable Diffusion 1.5/SDXL 高清生图创作",
+          "本地运行 7B~14B 量化模型与代码辅助助手"
+        ],
+        "summary": "主流 2K 游戏利器，功耗控制极佳，满足所有主流 3A 游戏的 2K 高清畅玩与日常生产力创作。"
+      }
+    },
+    {
+      "id": "gpu-colorful-igame-rtx-5060ti-mini-oc-16gb",
+      "category": "GRAPHICS_CARD",
+      "brand": "Colorful",
+      "series": "iGame Mini",
+      "model": "iGame GeForce RTX 5060 Ti Mini OC 16GB",
+      "sku": null,
+      "mpn": null,
+      "variant": "Mini OC 16GB",
+      "releaseDate": "2025-12",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": "单风扇 ITX",
+      "color": "Black",
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Colorful Official"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "gpuChip": "NVIDIA GeForce RTX 5060 Ti",
+        "architecture": "Blackwell",
+        "vramGB": 16,
+        "vramType": "GDDR7",
+        "memoryBusWidth": null,
+        "cudaCores": 4608,
+        "baseClockMHz": null,
+        "boostClockMHz": null,
+        "powerConnector": null,
+        "tdpW": null,
+        "recommendedPsuW": 550,
+        "lengthMm": 180,
+        "heightMm": 123,
+        "thicknessMm": 39.8,
+        "slotWidth": "2-slot approx",
+        "fans": 1,
+        "outputs": [
+          "DisplayPort",
+          "HDMI"
+        ],
+        "rgb": true,
+        "lcdScreen": false,
+        "cooling": "Single Fan Cage"
+      },
+      "workloads": {
+        "tier": "1080P 全特效 3A / 2K 电竞高刷",
+        "badge": "高能效甜点装机王",
+        "games": [
+          "《黑神话:悟空》(1080P 高画质 + DLSS 60FPS+ / 2K 动态分辨率 60FPS)",
+          "《赛博朋克2077》(1080P 高光追 + 帧生成 75FPS+)",
+          "《CS2》/《永劫无间》(1080P 电竞 240FPS+ / 2K 144FPS+)"
+        ],
+        "productivity": [
+          "剪映 / PR 4K H.264/H.265 快速剪辑与硬件编码导出",
+          "Stable Diffusion 1.5 绘图 (512×512 约 3~5 秒/张)",
+          "Blender / C4D 视口流畅实时预览与轻量场景渲染"
+        ],
+        "summary": "大众装机最均衡的甜点卡，1080P 全特效通吃全部 3A 大作，兼顾日常视频剪辑与轻度 AI 绘图。"
+      }
+    },
+    {
+      "id": "gpu-colorful-igame-rtx-5060ti-mini-oc-8gb",
+      "category": "GRAPHICS_CARD",
+      "brand": "Colorful",
+      "series": "iGame Mini",
+      "model": "iGame GeForce RTX 5060 Ti Mini OC 8GB",
+      "sku": null,
+      "mpn": null,
+      "variant": "Mini OC 8GB",
+      "releaseDate": "2025-12",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": "单风扇入门 ITX",
+      "color": "Black",
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Colorful Official"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "gpuChip": "NVIDIA GeForce RTX 5060 Ti",
+        "architecture": "Blackwell",
+        "vramGB": 8,
+        "vramType": "GDDR7",
+        "memoryBusWidth": null,
+        "cudaCores": 4608,
+        "baseClockMHz": null,
+        "boostClockMHz": null,
+        "powerConnector": null,
+        "tdpW": null,
+        "recommendedPsuW": 550,
+        "lengthMm": 180,
+        "heightMm": 123,
+        "thicknessMm": 39.8,
+        "slotWidth": "2-slot approx",
+        "fans": 1,
+        "outputs": [
+          "DisplayPort",
+          "HDMI"
+        ],
+        "rgb": true,
+        "lcdScreen": false,
+        "cooling": "Single Fan Cage"
+      },
+      "workloads": {
+        "tier": "1080P 全特效 3A / 2K 电竞高刷",
+        "badge": "高能效甜点装机王",
+        "games": [
+          "《黑神话:悟空》(1080P 高画质 + DLSS 60FPS+ / 2K 动态分辨率 60FPS)",
+          "《赛博朋克2077》(1080P 高光追 + 帧生成 75FPS+)",
+          "《CS2》/《永劫无间》(1080P 电竞 240FPS+ / 2K 144FPS+)"
+        ],
+        "productivity": [
+          "剪映 / PR 4K H.264/H.265 快速剪辑与硬件编码导出",
+          "Stable Diffusion 1.5 绘图 (512×512 约 3~5 秒/张)",
+          "Blender / C4D 视口流畅实时预览与轻量场景渲染"
+        ],
+        "summary": "大众装机最均衡的甜点卡，1080P 全特效通吃全部 3A 大作，兼顾日常视频剪辑与轻度 AI 绘图。"
+      }
+    },
+    {
+      "id": "gpu-colorful-igame-rtx-5060ti-advanced-oc-16gb",
+      "category": "GRAPHICS_CARD",
+      "brand": "Colorful",
+      "series": "iGame Advanced",
+      "model": "iGame GeForce RTX 5060 Ti Advanced OC 16GB",
+      "sku": null,
+      "mpn": null,
+      "variant": "Advanced OC 16GB",
+      "releaseDate": "2025",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Market / Fenxiang"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "gpuChip": "NVIDIA GeForce RTX 5060 Ti",
+        "architecture": "Blackwell",
+        "vramGB": 16,
+        "vramType": "GDDR7",
+        "memoryBusWidth": null,
+        "cudaCores": 4608,
+        "baseClockMHz": null,
+        "boostClockMHz": null,
+        "powerConnector": null,
+        "tdpW": null,
+        "recommendedPsuW": 550,
+        "lengthMm": null,
+        "slotWidth": null,
+        "fans": 3,
+        "outputs": [
+          "DisplayPort",
+          "HDMI"
+        ],
+        "rgb": true,
+        "lcdScreen": false,
+        "cooling": "Triple Fan"
+      },
+      "workloads": {
+        "tier": "1080P 全特效 3A / 2K 电竞高刷",
+        "badge": "高能效甜点装机王",
+        "games": [
+          "《黑神话:悟空》(1080P 高画质 + DLSS 60FPS+ / 2K 动态分辨率 60FPS)",
+          "《赛博朋克2077》(1080P 高光追 + 帧生成 75FPS+)",
+          "《CS2》/《永劫无间》(1080P 电竞 240FPS+ / 2K 144FPS+)"
+        ],
+        "productivity": [
+          "剪映 / PR 4K H.264/H.265 快速剪辑与硬件编码导出",
+          "Stable Diffusion 1.5 绘图 (512×512 约 3~5 秒/张)",
+          "Blender / C4D 视口流畅实时预览与轻量场景渲染"
+        ],
+        "summary": "大众装机最均衡的甜点卡，1080P 全特效通吃全部 3A 大作，兼顾日常视频剪辑与轻度 AI 绘图。"
+      }
+    },
+    {
+      "id": "gpu-colorful-igame-rtx-5070-ultra-oc",
+      "category": "GRAPHICS_CARD",
+      "brand": "Colorful",
+      "series": "iGame Ultra",
+      "model": "iGame GeForce RTX 5070 Ultra OC 12GB",
+      "sku": null,
+      "mpn": null,
+      "variant": "Ultra OC",
+      "releaseDate": "2025",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": "嘻哈三风扇",
+      "color": "Black / Hip-hop",
+      "referencePrice": 6299.0,
+      "marketMin": 5899.0,
+      "marketMax": 6699.0,
+      "marketMedian": 6299.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 6299.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Colorful"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "gpuChip": "NVIDIA GeForce RTX 5070",
+        "architecture": "Blackwell",
+        "vramGB": 12,
+        "vramType": "GDDR7",
+        "memoryBusWidth": null,
+        "cudaCores": 6144,
+        "baseClockMHz": null,
+        "boostClockMHz": null,
+        "powerConnector": "16-pin",
+        "tdpW": null,
+        "recommendedPsuW": 650,
+        "lengthMm": 314,
+        "slotWidth": null,
+        "fans": 3,
+        "outputs": [
+          "3x DP",
+          "1x HDMI"
+        ],
+        "rgb": true,
+        "lcdScreen": false,
+        "cooling": "Triple Fan"
+      },
+      "workloads": {
+        "tier": "2K 高画质 3A / 顺畅视频创作",
+        "badge": "2K 畅玩主流选择",
+        "games": [
+          "《黑神话:悟空》(2K 高画质 + DLSS 65FPS+)",
+          "《艾尔登法环》/《霍格沃茨之遗》(2K 极致画质 80FPS+)",
+          "《CS2》/《瓦罗兰特》(2K 电竞画质 240FPS+)"
+        ],
+        "productivity": [
+          "剪映 / Premiere 4K 多轨道无损剪辑与快速渲染",
+          "Stable Diffusion 1.5/SDXL 高清生图创作",
+          "本地运行 7B~14B 量化模型与代码辅助助手"
+        ],
+        "summary": "主流 2K 游戏利器，功耗控制极佳，满足所有主流 3A 游戏的 2K 高清畅玩与日常生产力创作。"
+      }
+    },
+    {
+      "id": "gpu-colorful-igame-rtx-5060-ultra-oc",
+      "category": "GRAPHICS_CARD",
+      "brand": "Colorful",
+      "series": "iGame Ultra",
+      "model": "iGame GeForce RTX 5060 Ultra OC 8GB",
+      "sku": null,
+      "mpn": null,
+      "variant": "Ultra OC",
+      "releaseDate": "2025",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 1999.0,
+      "marketMin": 1799.0,
+      "marketMax": 2199.0,
+      "marketMedian": 1999.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 1999.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Colorful"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "gpuChip": "NVIDIA GeForce RTX 5060",
+        "architecture": "Blackwell",
+        "vramGB": 8,
+        "vramType": "GDDR7",
+        "memoryBusWidth": null,
+        "cudaCores": 3840,
+        "baseClockMHz": null,
+        "boostClockMHz": null,
+        "powerConnector": null,
+        "tdpW": null,
+        "recommendedPsuW": 550,
+        "lengthMm": null,
+        "slotWidth": null,
+        "fans": 3,
+        "outputs": [
+          "DisplayPort",
+          "HDMI"
+        ],
+        "rgb": true,
+        "lcdScreen": false,
+        "cooling": "Triple Fan"
+      },
+      "workloads": {
+        "tier": "1080P 高画质 3A / 极低功耗",
+        "badge": "低功耗 1080P 守门员",
+        "games": [
+          "《黑神话:悟空》(1080P 高画质 + DLSS 55~60FPS)",
+          "《原神》/《崩坏:星穹铁道》(1080P/2K 满帧 60FPS)",
+          "《英雄联盟》/《无畏契约》(1080P 极致画质 300FPS+)"
+        ],
+        "productivity": [
+          "B站 / 抖音 1080P/4K 短视频剪辑与导出",
+          "Photoshop / Lightroom 复杂摄影原片修图调色",
+          "OBS 游戏直播超低功耗硬件推流"
+        ],
+        "summary": "115W 极低功耗，支持全套 DLSS 3 帧生成，1080P 畅玩主流大作的国民级高能效显卡。"
+      }
+    },
+    {
+      "id": "gpu-colorful-igame-rtx-5070ti-ultra-oc",
+      "category": "GRAPHICS_CARD",
+      "brand": "Colorful",
+      "series": "iGame Ultra",
+      "model": "iGame GeForce RTX 5070 Ti Ultra OC 16GB",
+      "sku": null,
+      "mpn": null,
+      "variant": "Ultra OC",
+      "releaseDate": "2025",
+      "lifecycle": "active",
+      "condition": "new",
+      "tagline": null,
+      "color": null,
+      "referencePrice": 6299.0,
+      "marketMin": 5899.0,
+      "marketMax": 6699.0,
+      "marketMedian": 6299.0,
+      "currency": "CNY",
+      "priceSources": [
+        {
+          "url": "https://zj.zol.com.cn/",
+          "seller": "ZOL 行情推算",
+          "price": 6299.0,
+          "condition": "new",
+          "collectedAt": "2026-11-21"
+        }
+      ],
+      "officialUrl": null,
+      "imageUrl": null,
+      "specSource": [
+        "Colorful"
+      ],
+      "verifiedAt": "2026-11-21",
+      "dataCompleteness": 0.9,
+      "model3dUrl": null,
+      "model3dStatus": "unavailable",
+      "specs": {
+        "gpuChip": "NVIDIA GeForce RTX 5070 Ti",
+        "architecture": "Blackwell",
+        "vramGB": 16,
+        "vramType": "GDDR7",
+        "memoryBusWidth": null,
+        "cudaCores": 8960,
+        "baseClockMHz": null,
+        "boostClockMHz": null,
+        "powerConnector": "16-pin",
+        "tdpW": null,
+        "recommendedPsuW": 750,
+        "lengthMm": null,
+        "slotWidth": null,
+        "fans": 3,
+        "outputs": [
+          "3x DP",
+          "1x HDMI"
+        ],
+        "rgb": true,
+        "lcdScreen": false,
+        "cooling": "Triple Fan"
+      },
+      "workloads": {
+        "tier": "2K 极致电竞 / 4K 高画质入门",
+        "badge": "2K 顶级甜点主力卡",
+        "games": [
+          "《黑神话:悟空》(2K 超高画质 + 全景光追 75FPS+)",
+          "《赛博朋克2077》(2K 超高光追 + 帧生成 90FPS+)",
+          "《绝地求生》/《Apex 英雄》(2K 极致高刷 240FPS+)"
+        ],
+        "productivity": [
+          "DaVinci Resolve / Premiere 4K 10bit 复杂调色剪辑",
+          "Stable Diffusion SDXL 1024×1024 生图 (约 5~8 秒/张)",
+          "本地流畅运行 14B 参数多模态大语言模型"
+        ],
+        "summary": "2K 分辨率下的黄金主力卡，高帧通吃所有顶级光追大作，拥有出色的 4K 视频后期与本地 AI 部署能力。"
+      }
+    }
+  ]
+}

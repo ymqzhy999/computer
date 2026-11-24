@@ -1,0 +1,37 @@
+{
+  "name": "pc-forge",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "PC FORGE — 3D 电脑硬件数字孪生装配实验室",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 5173",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4178",
+    "test": "vitest run",
+    "test:api": "cd backend && python -m unittest -v test_api",
+    "backend": "python -m uvicorn backend.main:app --host 127.0.0.1 --port 8018 --reload",
+    "catalog": "node scripts/build-catalog.mjs"
+  },
+  "dependencies": {
+    "echarts": "^5.6.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.2",
+    "lucide-vue-next": "^0.468.0",
+    "pinia": "^2.3.0",
+    "three": "^0.171.0",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@types/three": "^0.171.0",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "autoprefixer": "^10.4.20",
+    "playwright-core": "^1.65.1",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "~5.7.2",
+    "vite": "^6.0.7",
+    "vitest": "^2.1.8",
+    "vue-tsc": "^2.2.0"
+  }
+}

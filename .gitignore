@@ -1,0 +1,16 @@
+node_modules
+dist
+.vite
+*.log
+backend/__pycache__
+backend/.venv
+backend/pcforge.db
+*.tsbuildinfo
+__pycache__/
+*.pyc
+.env
+.env.local
+.vscode/
+.idea/
+.DS_Store
+
