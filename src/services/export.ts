@@ -20,7 +20,33 @@ export interface ExportPayload {
   notes?: string[]
 }
 
-function downloadBlob(blob: Blob, filename: string) {
+async function downloadBlob(blob: Blob, filename: string) {
+  if (typeof window !== 'undefined' && window.electronAPI?.dialog && window.electronAPI?.fs) {
+    try {
+      const ext = filename.split('.').pop() ?? 'txt'
+      const res = await window.electronAPI.dialog.showSaveDialog({
+        title: '保存配置清单',
+        defaultPath: filename,
+        filters: [{ name: ext.toUpperCase(), extensions: [ext] }, { name: '所有文件', extensions: ['*'] }],
+      })
+      if (!res.canceled && res.filePath) {
+        const reader = new FileReader()
+        const base64Promise = new Promise<string>((resolve) => {
+          reader.onloadend = () => {
+            const result = (reader.result as string) || ''
+            resolve(result.split(',')[1] || '')
+          }
+        })
+        reader.readAsDataURL(blob)
+        const base64 = await base64Promise
+        await window.electronAPI.fs.writeFile(res.filePath, base64)
+        return
+      }
+      if (res.canceled) return
+    } catch (e) {
+      console.warn('Native save dialog failed, falling back to browser download:', e)
+    }
+  }
   const url = URL.createObjectURL(blob)
   const link = document.createElement('a')
   link.href = url

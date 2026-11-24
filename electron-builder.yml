@@ -1,0 +1,50 @@
+appId: com.pcforge.desktop
+productName: PC装机实验室
+copyright: Copyright © 2026 PC FORGE Team
+
+directories:
+  output: dist-desktop
+  buildResources: build
+
+files:
+  - dist/**/*
+  - dist-electron/**/*
+  - package.json
+  - "!backend/**/*"
+  - "!docs/**/*"
+  - "!scripts/**/*"
+  - "!src/**/*"
+  - "!**/*.ts"
+  - "!**/*.map"
+
+extraMetadata:
+  main: dist-electron/main.mjs
+
+win:
+  target:
+    - target: nsis
+      arch:
+        - x64
+  icon: build/icon.ico
+
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  allowElevation: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: PC装机实验室
+  installerLanguages:
+    - zh_CN
+  language: 2052
+  uninstallDisplayName: PC装机实验室
+  deleteAppDataOnUninstall: false
+
+mac:
+  target:
+    - target: dmg
+      arch:
+        - x64
+        - arm64
+  icon: build/icon.png
+  category: public.app-category.developer-tools

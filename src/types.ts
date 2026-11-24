@@ -318,3 +318,32 @@ export interface CameraReadout {
   elevation: number
   distance: number
 }
+
+export interface DesktopElectronAPI {
+  isDesktop: boolean
+  getAppInfo: () => Promise<{ name: string; version: string; userDataPath: string; isDesktop: boolean }>
+  storage: {
+    read: (filename: string) => Promise<string | null>
+    write: (filename: string, content: string) => Promise<{ ok: boolean; error?: string }>
+    getPath: (filename: string) => Promise<string>
+  }
+  dialog: {
+    showSaveDialog: (options: any) => Promise<any>
+    showOpenDialog: (options: any) => Promise<any>
+  }
+  fs: {
+    writeFile: (filePath: string, base64Content: string) => Promise<{ ok: boolean; error?: string }>
+    readFile: (filePath: string) => Promise<{ ok: boolean; content?: string; error?: string }>
+  }
+  price: {
+    health: () => Promise<any>
+    quotes: (productIds: string[]) => Promise<any>
+  }
+}
+
+declare global {
+  interface Window {
+    electronAPI?: DesktopElectronAPI
+  }
+}
+

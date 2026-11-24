@@ -140,7 +140,7 @@ git clone https://github.com/ymqzhy999/computer.git
 cd computer
 ```
 
-### 2. 启动前端 3D 实验室
+### 2. 启动前端 3D 实验室 (Web)
 ```powershell
 # 安装依赖
 npm install
@@ -150,7 +150,18 @@ npm run dev
 ```
 打开浏览器访问：**`http://localhost:5173/`** 即可立即体验 3D 装机实验室！
 
-### 3. 启动后端 API 服务（可选）
+### 3. 🖥️ 运行与打包桌面端 (Electron)
+本项目已完整支持独立桌面端应用与 Windows NSIS 标准安装包（详细步骤见 [DESKTOP_BUILD.md](DESKTOP_BUILD.md)）：
+```powershell
+# 启动桌面端热更新开发模式 (Vite + Electron)
+npm run dev:desktop
+
+# 构建生成 Windows 原生安装程序 (.exe)
+npm run build:win
+```
+生成的安装包位于 `dist-desktop/PC装机实验室 Setup 1.0.0.exe`，支持简体中文向导、自定义路径、桌面快捷方式与完整卸载。
+
+### 4. 启动后端 API 服务（可选）
 后端提供硬件目录查询、价格适配接口与健康检查：
 ```powershell
 # 安装 Python 依赖

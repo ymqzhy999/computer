@@ -18,6 +18,11 @@ interface QuoteResponse {
  */
 export async function refreshQuotes(productIds: string[]): Promise<QuoteResponse> {
   if (!productIds.length) return { adapter: 'none', fetchedAt: new Date().toISOString(), quotes: [] }
+  if (typeof window !== 'undefined' && window.electronAPI?.price) {
+    try {
+      return await window.electronAPI.price.quotes(productIds)
+    } catch {}
+  }
   const controller = new AbortController()
   const timeout = window.setTimeout(() => controller.abort(), 6500)
   try {
@@ -37,6 +42,11 @@ export async function refreshQuotes(productIds: string[]): Promise<QuoteResponse
 }
 
 export async function adapterHealth(): Promise<{ configured: boolean; adapter: string; message: string }> {
+  if (typeof window !== 'undefined' && window.electronAPI?.price) {
+    try {
+      return await window.electronAPI.price.health()
+    } catch {}
+  }
   try {
     const response = await fetch('/api/prices/health', { signal: AbortSignal.timeout(2500) })
     if (!response.ok) throw new Error(`HTTP ${response.status}`)

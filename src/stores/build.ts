@@ -255,6 +255,9 @@ export const useBuildStore = defineStore('build', () => {
         customizations: customizations.value,
       }
       localStorage.setItem(STORAGE_KEY, JSON.stringify(state))
+      if (typeof window !== 'undefined' && window.electronAPI?.storage) {
+        window.electronAPI.storage.write('user_builds_state.json', JSON.stringify(state, null, 2)).catch(() => {})
+      }
     } catch {
       // Storage can be unavailable in private mode; the app keeps working in memory.
     }

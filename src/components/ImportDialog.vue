@@ -41,6 +41,14 @@ const manual = reactive({
   power: '',
 })
 
+const isDesktop = computed(() => typeof window !== 'undefined' && !!window.electronAPI?.isDesktop)
+function onBtnClick(e: MouseEvent) {
+  if (isDesktop.value) {
+    e.preventDefault()
+    onNativeOpen()
+  }
+}
+
 const canImport = computed(() => preview.value.length > 0)
 const manualValid = computed(() => manual.brand.trim() && manual.model.trim() && Number(manual.price) > 0)
 
@@ -71,6 +79,28 @@ async function onFile(event: Event) {
   if (!file) return
   parseText(await file.text(), file.name)
   input.value = ''
+}
+
+async function onNativeOpen() {
+  if (typeof window !== 'undefined' && window.electronAPI?.dialog && window.electronAPI?.fs) {
+    try {
+      const res = await window.electronAPI.dialog.showOpenDialog({
+        title: '选择配件数据文件',
+        filters: [{ name: '配件数据 (JSON / CSV)', extensions: ['json', 'csv'] }, { name: '所有文件', extensions: ['*'] }],
+        properties: ['openFile'],
+      })
+      if (!res.canceled && res.filePaths?.[0]) {
+        const filePath = res.filePaths[0]
+        const readRes = await window.electronAPI.fs.readFile(filePath)
+        if (readRes.ok && readRes.content) {
+          const name = filePath.split(/[/\\]/).pop() || 'imported-data'
+          parseText(readRes.content, name)
+        }
+      }
+    } catch (e) {
+      console.warn('Native open dialog failed:', e)
+    }
+  }
 }
 
 async function onDrop(event: DragEvent) {
@@ -166,9 +196,9 @@ function downloadTemplate() {
               <div class="drop-icons"><FileJson :size="22" /><FileSpreadsheet :size="22" /></div>
               <strong>拖入 JSON / CSV 文件</strong>
               <p>支持顶层产品数组或 <code>{ "products": [] }</code>；CSV 必须包含 category、brand、model 列。</p>
-              <label class="forge-btn forge-btn--primary">
+              <label class="forge-btn forge-btn--primary" @click="onBtnClick">
                 <Upload :size="13" /> 选择文件
-                <input type="file" accept=".json,.csv,text/csv,application/json" hidden @change="onFile" />
+                <input v-if="!isDesktop" type="file" accept=".json,.csv,text/csv,application/json" hidden @change="onFile" />
               </label>
               <button type="button" class="link-btn" @click="downloadTemplate"><Download :size="12" /> 下载 CSV 模板</button>
             </div>
