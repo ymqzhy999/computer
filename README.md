@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vue-3.5+-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
-  <img src="https://img.shields.io/badge/Three.js-0.171+-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/TypeScript-5.7+-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/FastAPI-0.115+-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Vite-6.0+-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-3.4+-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="docs/badges/vue.svg" alt="Vue 3" />
+  <img src="docs/badges/threejs.svg" alt="Three.js" />
+  <img src="docs/badges/typescript.svg" alt="TypeScript" />
+  <img src="docs/badges/fastapi.svg" alt="FastAPI" />
+  <img src="docs/badges/vite.svg" alt="Vite" />
+  <img src="docs/badges/tailwind.svg" alt="Tailwind CSS" />
 </p>
 
 ---
